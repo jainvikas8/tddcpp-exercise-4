@@ -26,32 +26,32 @@ protected:
 
 TEST_F(Mock_tests, test_initialisation)
 {
-
+  FAIL();
 }
 
 TEST_F(Mock_tests, test_init_display_1st_failure)
 {
-
+  FAIL();
 }
 
 TEST_F(Mock_tests, test_init_display_2nd_failure)
 {
-
+  FAIL();
 }
 
 TEST_F(Mock_tests, test_run_display_no_failure)
 {
-
+  FAIL();
 }
 
 TEST_F(Mock_tests, test_init_display_3nd_failure)
 {
-
+  FAIL();
 }
 
 
 
 TEST_F(Mock_tests, test_init_display_param_check)
 {
-
+  FAIL();
 }
